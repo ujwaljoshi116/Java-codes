@@ -1,7 +1,7 @@
 # Java-codes
 To execute this java code 
 user must have an java environment installed(jdk) in pc.
-to run this run user should also have an java ide (intellij,eclipse).
+to run this run user should also have an java ide (intellij,eclipse,NetBeans).
 You can also run your java code in command prompt or windows Powershell.
 Steps to run on cmd prompt or Windows PoweShell
 1.open the cmd for the path where your java file is saved 
